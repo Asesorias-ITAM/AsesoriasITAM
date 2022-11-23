@@ -24,7 +24,7 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 
 ### Software requirements
 
-Los requerimientos de software se pueden consultar [aquí]
+Los requerimientos de software se pueden consultar [aquí](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/SRS.md)
 
 ### Casos de uso
 
@@ -42,7 +42,7 @@ Los requerimientos de software se pueden consultar [aquí]
 
 ### Plan de calidad
 
-El plan de calidad se puede consultar (aqui)
+El plan de calidad se puede consultar [aquí](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/PlanCalidad.md)
 
 ### Arquitectura
 
