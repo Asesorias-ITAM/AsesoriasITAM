@@ -50,7 +50,10 @@ Optamos por el uso de una Arquitectura de Microservicios.
 
 Microservicios es una arquitectura basada en que la mayoría de las acciones del sistema no están dentro del sistema, sino que están en el exterior. Esto significa que cada servicio es independiente y por ende, la modularización del sistema es más sencilla.Esta arquitectura presenta tener grandes ventajas, comparada con las demás, las cuales fueron las que ayudaron a que tomaramos la decisión de usar Microservicios.
 
-Con Microservicios, se tiene una muy alta agilidad que va de la mano con una alta facilidad de despliegue y alta facilidad de prueba.
+Con Microservicios, se tiene una muy alta agilidad que va de la mano con una alta facilidad de despliegue y alta facilidad de prueba. Cada servicio (microservicio) es pequeño y trabaja de manera independiente, para ello, sólo se necesita un equipo de programadores pequeño para darle mantenimiento, aplicarle actualizaciones o modificaciones. Al tener microservicios de manera independiente, si se requieren hacer estos cambios o actualizaciones no afectará el sistema completo al estar de forma independiente, por lo tanto no se tiene que volver a generar o implementar toda la aplicación. Vemos que esto es una gran ventaja para Asesorías ITAM ya que queremos que sea una aplicación que no necesite ser "quitada" o "removida" por cierto tiempo para realizar los cambios ya que es una aplicación que los alumnos puedan tener acceso para mejorar su entendimiento en materias o estar al pendiente de sus cursos. A su vez, como son independientes, la facilidad de prueba para las nuevas funciones o correxiones es escencial para lograr tener una aplicación de asesorias totalmente funcional.
+
+A su vez, la escalabilidad de esta arquitectura es muy vasta ya que los servicios pueden escalar de manera independiente, lo cual le permite a la aplicación en general poder crecer horizontalmente si es que los microservicios requieren más recursos, fortificando la aplicación en conjunto. Del mismo modo, esto permite que se tengan varios servicios en diversos lados, ayudando incluso a la evasión de fallas generales en el sistema. Si se llega a tener un error en algúns servicio, este no va a afectar el sistema completo.
+
 
 ### Metodología
 
