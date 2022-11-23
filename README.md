@@ -46,8 +46,9 @@ El plan de calidad se puede consultar [aquí](https://github.com/Asesorias-ITAM/
 
 ### Arquitectura
 
-[Explicar Microservicios]
+Optamos por el uso de una Arquitectura de Microservicios.
 
+Microservicios es una arquitectura basada en que la mayoría de las acciones del sistema no están dentro del sistema, sino que están en el exterior.
 ### Metodología
 
 [Explicar ]
