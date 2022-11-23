@@ -42,6 +42,8 @@ Los requerimientos de software se pueden consultar [aquí]
 
 ### Plan de calidad
 
+El plan de calidad se puede consultar (aqui)
+
 ### Arquitectura
 
 [Explicar Microservicios]
