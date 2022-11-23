@@ -48,7 +48,10 @@ El plan de calidad se puede consultar [aquí](https://github.com/Asesorias-ITAM/
 
 Optamos por el uso de una Arquitectura de Microservicios.
 
-Microservicios es una arquitectura basada en que la mayoría de las acciones del sistema no están dentro del sistema, sino que están en el exterior.
+Microservicios es una arquitectura basada en que la mayoría de las acciones del sistema no están dentro del sistema, sino que están en el exterior. Esto significa que cada servicio es independiente y por ende, la modularización del sistema es más sencilla.Esta arquitectura presenta tener grandes ventajas, comparada con las demás, las cuales fueron las que ayudaron a que tomaramos la decisión de usar Microservicios.
+
+Con Microservicios, se tiene una muy alta agilidad que va de la mano con una alta facilidad de despliegue y alta facilidad de prueba.
+
 ### Metodología
 
 [Explicar ]
