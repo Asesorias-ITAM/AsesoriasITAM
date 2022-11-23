@@ -4,7 +4,20 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 
 ## Tabla de contenido
 
-[Hacer tabla]
+* [Información general](#información-general)
+  * [Software requirements](#software-requirements)
+    * [Caso de uso 1]
+    * [Caso de uso 2]
+    * [Caso de uso 3]
+  * [Plan de calidad](#plan-de-calidad)
+  * [Arquitectura](#arquitectura)
+  * [Metodología](#metodología)
+* [Uso](#uso)
+* [Propuesta económica](#propuesta-económica)
+  * [Propuesta de venta](#propuesta-de-venta)
+  * [Propuesta de costos](#propuesta-de-costos)
+* [Créditos](#créditos)
+* [Contacto](#contacto)
 
 ## Información general
 
