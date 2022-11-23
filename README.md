@@ -1,6 +1,6 @@
 # AsesoriasITAM
 
-Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con alumnos que quieren ayudar a otros en asignaturas que ellos dominan.
+Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con alumnos que quieren ayudar a otros en asignaturas que ellos dominan. Se busca tener una aplicación para que los alumnos que disfruten y entiendan temas puedan ofrecer asesorías para así ayudar a otros en estas. 
 
 ## Tabla de contenido
 
