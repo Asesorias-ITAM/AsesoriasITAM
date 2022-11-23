@@ -6,6 +6,7 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 
 * [Información general](#información-general)
   * [Software requirements](#software-requirements)
+  * [Casos de Uso](#casos-de-uso)
     * [Caso de uso 1]
     * [Caso de uso 2]
     * [Caso de uso 3]
@@ -23,7 +24,9 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 
 ### Software requirements
 
-[Explicación]
+Los requerimientos de software se pueden consultar [aquí]
+
+### Casos de uso
 
 #### Caso de uso 1: [CASO]
 
@@ -56,20 +59,30 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 
 ### Propuesta de venta
 
-[Explicar como se lo vamos a vender al ITAM y además cobrar por el mantenimiento de la plataforma]
+Esta aplicación tiene el fin de ayudar a unir a la comunidad ITAM a la vez que se obtiene una mejora en el desempeño escolar de los alumnos, y hacer la aplicación de pago para los alumnos supondría una barrera de entrada. Es por lo anterior que proponemos vender la aplicación al ITAM para que sea implementada y distribuida libremente a los alumnos, además de darle mantenimiento semestral a la aplicación pues habrá que reiniciar la base de datos cada semestre.
 
 ### Propuesta de costos
+
+En el siguiente (excel) mostramos la distribución de los costos necesarios para la creación de esta aplicación
 
 [Imagen del excel] -> [Terminar Excel]
 
 ## Créditos
 
-[Poner referencias utilizadas en la realización de este código]
+* El diseño de la barra lateral está inspirado de (https://www.youtube.com/watch?v=Ul4KOXNQJSk&t=18s&ab_channel=TylerPotts
+)
+* La alerta de inscripción a una materia está inspirada de (https://github.com/k90mirzaei/vue-toast)
+* El modo oscuro está inspirado de :
+  * Funcionalidad: (https://www.youtube.com/watch?v=cGN91TLXrC8&ab_channel=LearnVue)
+  * Diseño: (https://dev.to/tqbit/create-your-own-dark-mode-toggle-component-with-vue-js-1284#fromHistory)
 
 ## Contacto
 
 Creado por:
 
-[Nombres y correos]
++ Rodrigo Alejandro Barrera Manjarrez (rbarrer1@itam.mx)
++ Fabio Giuseppe Calo Dizy (fcalodiz@itam.mx)
++ Axel Giuseppe Flores Aranda (aflore85@itam.mx)
++ Salvador Alejandro Uribe Calva (suribeca@itam.mx)
 
 Este proyecto se desarrolló para la materia Ingeniería de Software en Otoño 2022
