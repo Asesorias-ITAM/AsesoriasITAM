@@ -7,9 +7,9 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 * [Información general](#información-general)
   * [Software requirements](#software-requirements)
   * [Casos de Uso](#casos-de-uso)
-    * [Caso 1: Escritura y publicación de notas]
-    * [Caso de uso 2]
-    * [Caso de uso 3]
+    * Caso 1: Escritura y publicación de notas
+    * Caso 2: Inscripción a un grupo
+    * Caso 3: Creación de una cuenta
   * [Plan de calidad](#plan-de-calidad)
   * [Arquitectura](#arquitectura)
   * [Metodología](#metodología)
