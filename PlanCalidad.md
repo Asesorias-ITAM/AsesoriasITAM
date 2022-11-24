@@ -120,10 +120,10 @@ Para realizar las pruebas se proporcionará una base de datos inicial para exper
 
 ## 15 Responsabilidades
 
-Rodrigo Barrera, está a cargo y es quién decide decide tanto los riesgos del proyecto como el alcance de las pruebas.
-Fabio Calo dará el entrenamiento para utilizar la aplicación y será quien proporcionará los elementos para realizar las pruebas.
-Alejandro Uribe se encargará de diseñar las pruebas y organizar tiempos para realizarlas.
-Axel Flores tomará las decisiones sobre cualquier cosa que no esté escrita en este plan de calidad
++ Rodrigo Barrera, está a cargo y es quién decide decide tanto los riesgos del proyecto como el alcance de las pruebas.
++ Fabio Calo dará el entrenamiento para utilizar la aplicación y será quien proporcionará los elementos para realizar las pruebas.
++ Alejandro Uribe se encargará de diseñar las pruebas y organizar tiempos para realizarlas.
++ Axel Flores tomará las decisiones sobre cualquier cosa que no esté escrita en este plan de calidad
 
 ## 16. Itinerario
 Al estar usando la metodología Feature Driven, las pruebas se realizarán al día siguiente de haber acabado una Feature para asegurar su correcta implementación.
