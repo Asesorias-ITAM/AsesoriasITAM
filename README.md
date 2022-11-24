@@ -8,8 +8,8 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
   * [Software requirements](#software-requirements)
   * [Casos de Uso](#casos-de-uso)
     * [Caso 1: Escritura y publicación de notas]
-    * Caso 2: Inscripción a un grupo
-    * Caso 3: Creación de una cuenta
+    * [Caso 2: Inscripción a un grupo]
+    * [Caso 3: Creación de una cuenta]
   * [Plan de calidad](#plan-de-calidad)
   * [Arquitectura](#arquitectura)
   * [Metodología](#metodología)
@@ -30,7 +30,7 @@ Los requerimientos de software se pueden consultar [aquí.](https://github.com/A
 
 #### Caso de uso 1: Escritura y publicación de notas
 
-[IMAGEN CASO DE USO]
+<img width="480" alt="image" src="https://user-images.githubusercontent.com/55751739/203823757-916f6bba-49c1-4bda-9fc6-02b9895fcefe.png">
 
 #### Caso de uso 2: Inscripción a un grupo
 
