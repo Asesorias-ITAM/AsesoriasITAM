@@ -72,9 +72,7 @@ Esta aplicación tiene el fin de ayudar a unir a la comunidad ITAM a la vez que 
 
 ### Propuesta de costos
 
-En el siguiente (excel) mostramos la distribución de los costos necesarios para la creación de esta aplicación
-
-[Imagen del excel] -> [Terminar Excel]
+ La distribución de los costos necesarios para la creación de esta aplicación se puede consultar [aquí](https://docs.google.com/spreadsheets/d/1dWlTZhmF74pfeHZoSSXBFog-eDm9AqX3c1Zm7__oD2I/edit?usp=sharing)
 
 ## Créditos
 
