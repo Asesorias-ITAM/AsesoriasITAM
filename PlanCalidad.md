@@ -34,7 +34,7 @@ Este documento está basado en los estándares de calidad del IEEE-829 y en el S
 * Búsqueda de grupos
 * Creación de grupos
 * Suscripción a grupos
-* Ver grupos
+
 
 ## 5. Riesgos del Software
 
@@ -52,9 +52,34 @@ Funcionamiento de la aplicación desde la perspectiva del asesor y el no asesor.
 * Funcionamiento de la aplicación desde la perspectiva del administrador, ya funciona correctamente
 * Agregar y quitar notas, no estará disponible en esta versión del software
 
+## Estrategia de las pruebas
+
+Se harán pruebas a la aplicación con la estrategia Grey Box Testing, aplicando principalmente la técnica de regression testing para identificar rápidamente qué es lo que no está funcionando y si es un problema del código o de un mal uso de la aplicación.
+
+Los pasos a seguir son:
+
+1. Identificar qué inputs estámos dando
+2. Identificar qué outputs deberían salir
+3. Identificar qué camino toma la funcionalidad a probar
+4. Identificar subfuncionalidades relacionadas con la prueba
+5. Desarrollar inputs prueba para las subfucionalidades
+6. Desarrollar outputs prueba para las subfuncionalidades
+7. Hacer casos prueba para las subfuncionalidades
+8. Verificar el resultado de las subfuncionalides
+9. Repetir pasos 4 a 8 para el resto de subfucionalidades
+10. Hacer pruebas con la funcionalidad completa.
+
 # Las pruebas
 
-
+## 9. Criterios de éxito y fracaso
+| Funcionalidad     | Escenario   | Semáforo      |
+|-------------------|-------------|---------------|
+| Creación de cuentas | Creo una cuenta con correo del ITAM y otra con correo externo    | Verde             |
+| Inicio de sesión | Al introducir mis credeciales pienso que tengo un error y doy click en la lupa para ver si voy bien       | Amarillo             |
+| Navegación por interfaz | Navego entre las distintas pestañas con facilidad | Amarillo             |
+| Búsqueda de grupos          | Busco grupos para la materia Economía II  | Verde             |
+| Creación de grupos | Al crear un grupo quiero poner una foto de mi horario | Rojo | 
+| Suscripción a grupos | Me inscribo a un grupo por accidente y lo quiero dar de baja | Verde|
 
 # Entregables
 
