@@ -7,7 +7,9 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 * [Información general](#información-general)
   * [Software requirements](#software-requirements)
   * [Casos de Uso](#casos-de-uso)
-    * [Caso de uso 1]
+    * Caso 1: Escritura y publicación de notas
+    <img width="487" alt="image" src="https://user-images.githubusercontent.com/55751739/203821057-cf857950-88c2-4e91-8af5-1ed5ce495d12.png">
+
     * [Caso de uso 2]
     * [Caso de uso 3]
   * [Plan de calidad](#plan-de-calidad)
