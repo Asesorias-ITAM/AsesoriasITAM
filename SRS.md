@@ -1,4 +1,19 @@
 # Software Requirements Specifications
+
+Versión: 1.0 
+
+Autores: 
+
++ Rodrigo Alejandro Barrera Manjarrez (rbarrer1@itam.mx)
++ Fabio Giuseppe Calo Dizy (fcalodiz@itam.mx)
++ Axel Giuseppe Flores Aranda (aflore85@itam.mx)
++ Salvador Alejandro Uribe Calva (suribeca@itam.mx)
+
+Equipo Meriyein 2.0
+
+Última edición: 24 de noviembre de 2022
+
+
 ## Introducción
 ### Proposito
 La plataforma AsesoríasITAM tiene como objetivo el crear un espacio donde alumnos con problemas en sus materias contacten con alumnos que ya hayan cursado dichas materias y las dominen. Esto es el siguiente paso al sistema de laboratorios que maneja el ITAM el cuál se puede implementar dentro de la plataforma.
