@@ -113,7 +113,7 @@ Decidimos usar esta metodología porque nos ayudó a definir qué queríamos des
 
 ![image](https://user-images.githubusercontent.com/86432413/203697191-a2c01f82-ff06-4abe-99ff-fcbf8bcb100b.png)
 
-##### * Modo Asesor
+##### Modo Asesor
 
 * Desde la pantalla principal, *Mis asesores* puedes manejar los grupos a los que estás incrito. Da clic en *ver curso* para ver los detalles del curso, o en *Dejar grupo* para elimiar el grupo de tu pantalla principal.
 
@@ -135,7 +135,7 @@ Decidimos usar esta metodología porque nos ayudó a definir qué queríamos des
 
 [Foto de ajustes]
 
-##### * Modo No Asesor
+##### Modo No Asesor
 
 El modo no asesor no cuenta con las funcionalidades de crear grupo y mis grupos
 
