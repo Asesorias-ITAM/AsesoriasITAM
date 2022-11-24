@@ -82,7 +82,7 @@ En primer lugar, por cómo está echo, sólo se planea para alumnos con correos 
 ### Documentación de usuario
 
 ### Suposiciones y dependencias
-Vamos a asumir que todos los usuarios, tanto asesores como alumnos utilizan su correo institucional del ITAM. 
+Dependemos que todos los usuarios, tanto asesores como alumnos utilizan su correo institucional del ITAM. 
 
 ## External Interface Requirements
 
