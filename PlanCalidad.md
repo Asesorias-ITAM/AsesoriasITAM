@@ -24,7 +24,10 @@ Este documento está basado en los estándares de calidad del IEEE-829 y en el S
 ## 3. Introducción
 
 # Elementos a probar
-
+Se va a probar la correcta implementación del software en la página de AsesoríasITAM, esto incluye todas las pantallas en modo Asesor y modo No Asesor 
+* Validaciones del sistema 
+* Funcionalidades relacionadas con la Base de datos
+* UI de cada pantalla
 
 ## 4. Funcionalidades a probar
 
@@ -74,16 +77,55 @@ Los pasos a seguir son:
 ## 9. Criterios de éxito y fracaso
 | Funcionalidad     | Escenario   | Semáforo      |
 |-------------------|-------------|---------------|
-| Creación de cuentas | Creo una cuenta con correo del ITAM y otra con correo externo    | Verde             |
-| Inicio de sesión | Al introducir mis credeciales pienso que tengo un error y doy click en la lupa para ver si voy bien       | Amarillo             |
-| Navegación por interfaz | Navego entre las distintas pestañas con facilidad | Amarillo             |
-| Búsqueda de grupos          | Busco grupos para la materia Economía II  | Verde             |
-| Creación de grupos | Al crear un grupo quiero poner una foto de mi horario | Rojo | 
-| Suscripción a grupos | Me inscribo a un grupo por accidente y lo quiero dar de baja | Verde|
+| Creación de cuentas     | Creo una cuenta con correo del ITAM y otra con correo externo                                       | Verde    |
+| Inicio de sesión        | Al introducir mis credeciales pienso que tengo un error y doy clic en la lupa para ver si voy bien  | Amarillo |
+| Navegación por interfaz | Navego entre las distintas pestañas con facilidad                                                   | Amarillo |
+| Búsqueda de grupos      | Busco grupos para la materia Economía II                                                            | Verde    |
+| Creación de grupos      | Al crear un grupo quiero poner una foto de mi horario                                               | Rojo | 
+| Suscripción a grupos    | Me inscribo a un grupo por accidente y lo quiero dar de baja                                        | Verde |
 
 # Entregables
 
-# Sobre nosotros
+## 10. Criterios de suspensión y de reanudación de pruebas
+
+* Suspensión: La funcionalidad no presenta fallos en el uso que un usuario le daría contando posibles accidentes como introducir datos erróneos en campos.
+* Reanudación: La funcionalidad presenta un fallo crítico que evita el uso de la plataforma.
+
+## 11. Entregables de las pruebas
+
+* Documento de plan de calidad
+* Resultados de las pruebas
+* Especificación del diseño de cada prueba
+* Error logs
+* Reporte de los problemas encontrados y soluciones propuestas
+
+# Por hacer
+
+## 12. Pruebas pendientes
+
+* Probar funcionalidad de modo administrador
+* Probar funcionalidad de añadir y quitar notas
+* Probar cambios en sección de Ajustes
+
+## 13. Necesidades extra del ambiente
+
+Para realizar las pruebas se proporcionará una base de datos inicial para experimentar, también se proporcionaran cuentas de prueba para realizar las pruebas.
+
+# Requisitos para realizar las pruebas
+
+## 14. Necesidades de equipo y entrenamiento
+* Se requiere haber leído el documento README de este proyecto que se puede encontrar [aquí](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/README.md)
+* Se va a proporcionar una versión del código para realizar las pruebas y realizar cambios sin modificar inmediatamente el código principal
+* Se va a dar acceso a la base de datos de prueba
+
+## 15 Responsabilidades
+
+Rodrigo Barrera, está a cargo y es quién decide decide tanto los riesgos del proyecto como el alcance de las pruebas.
+Fabio Calo dará el entrenamiento para utilizar la aplicación y será quien proporcionará los elementos para realizar las pruebas.
+Alejandro Uribe se encargará de diseñar las pruebas y organizar tiempos para realizarlas.
+Axel Flores tomará las decisiones sobre cualquier cosa que no esté escrita en este plan de calidad
+
+## 16. 
 
 # BOCETO
 [1] Este es el plan -> Referencias (Documentos posteriores, planes, maquetas, SRS) ->
