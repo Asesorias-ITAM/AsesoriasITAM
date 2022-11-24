@@ -61,7 +61,53 @@ A su vez, la escalabilidad de esta arquitectura es muy vasta ya que los servicio
 
 ## Uso
 
-[Explicación de cómo se usa todo]
+### Modo usuario
+
+
+### Modo administrador
+
+#### Inicio de sesión
+1. Acceder a la aplicación con este enlace: http://asesorias-itam.vercel.app/#/admin
+2. Iniciar sesión con una cuenta de administrador
+![image](https://user-images.githubusercontent.com/86432413/203688086-f9bf87bf-b98b-4e5d-ba7e-d244bffcb5f5.png)
+
+#### Uso del directorio
+
+* Al iniciar sesión se mostrará la siguiente pantalla:
+
+![image](https://user-images.githubusercontent.com/86432413/203688364-aa806799-e88c-4867-a6c9-254505563cd5.png)
+
+* Se puede dar clic en los usuarios para desplegar sus datos
+
+![image](https://user-images.githubusercontent.com/86432413/203688534-2c6c4168-4134-41e2-b36e-90d18da42e6a.png)
+
+* Se puede dar clic en *asesores* para que solo se muestre a aquellos alumnos que son asesores
+
+![image](https://user-images.githubusercontent.com/86432413/203688611-e7d79eec-db4e-4c22-b02d-a948e5d49bf1.png)
+
+* Se puede buscar a un usuario en específico por su nombre o correo en la barra de búsqueda.
+
+![image](https://user-images.githubusercontent.com/86432413/203688797-5c24293c-c3cb-4acf-9c9a-e2effa38698d.png)
+
+Nota: Si la casilla de asesores está activada y se busca a un no asesor, no mostrará nada
+
+#### Uso de la pestaña de publicaciones
+
+1. Desde el menú principal, dar clic en publicaciones
+![image](https://user-images.githubusercontent.com/86432413/203689422-35ebbfac-43b0-43c2-8d86-4c17ce85ae4f.png)
+
+2. Ya en la pestaña de publicaciones se puede buscar publicaciones en la barra de búsqueda y dar clic en ellas directamente para mostrar su información.
+![image](https://user-images.githubusercontent.com/86432413/203689583-82f98603-f2b7-4826-84ab-58cfeb70fc38.png)
+
+3. Para eliminar una publicación, dar clic en el botón de *eliminar*
+
+![image](https://user-images.githubusercontent.com/86432413/203689670-0c1f0b99-436d-4461-87b2-3a1c16d53958.png)
+
+
+
+#### Cerrar la aplicación
+
+Para salir de la aplicación, dar clic en *cerrar sesión* 
 
 
 ## Propuesta económica
