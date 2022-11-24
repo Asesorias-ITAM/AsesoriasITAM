@@ -34,9 +34,12 @@ En el grupo los asesores podrán publicar su horario de atención y sus notas, l
 
 ## Descripción General
 
-### /Product Perspective
+### Product Perspective
+Se proyecta implementar una aplciación la cual cubra la necesidad de los alumnos que tienen problemas con el entendimiento o aprendizaje con las materias impartidas el Instituto Tecnológico Autónomo de México (ITAM) a través de una plataforma segura y confiable para aquellos que quieran impartir y tomar cursos. Se busca tener una aplicación que le brinde a los alumnos una forma de mejorar su entendimiento de diversas materias a un bajo costo, al mismo tiempo, que aquellos que tengan el coonocimiento, impartan estos cursos de la misma manera que los actuales laboratorios. La gran diferencia es que no sólo se implementan en la plataforma sino que se darían para cualquier materia que dominen que estén interesadxs en implartir.
 
 ### Product Functions
+Para los que quieran tomar alguna asesoría:
+  * 
 
 ### User Classes and Characteristics
 
