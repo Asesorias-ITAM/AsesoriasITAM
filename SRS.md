@@ -17,6 +17,7 @@ Equipo Meriyein 2.0
 ## Introducción
 ### Propósito
 La plataforma AsesoríasITAM tiene como objetivo el crear un espacio donde alumnos con problemas en sus materias contacten con alumnos que ya hayan cursado dichas materias y las dominen. Del mismo modo, se busca que pueda ser usada fácilmente por cualquiera, ya sea que quiera dar asesorias o tomarlas, su uso depe presentar ser sencillo para el usuario. 
+
 Esto es el siguiente paso al sistema de laboratorios que maneja el ITAM el cuál se puede implementar dentro de la plataforma.
 
 ### Definiciones
