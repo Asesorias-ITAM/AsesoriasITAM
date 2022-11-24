@@ -61,12 +61,28 @@ Administrador:
 Todos del mismo modo tienen la funcionalidad de cambiar el *modo* de su preferencia, es decir, modo escuro o claro.
 
 ### User Classes and Characteristics
+Las clases principales las podemos dividir en 3:
+ + Alumnos
+ + Asesores
+ + Administradores
+
+Para los alumnos que quieran tomar una asesoría. Podrán crear una cuenta en la aplicación *Asesorías ITAM*. Estos alumnos podrán ver qué clases les interesan tomar y registrarse en ellas. Esto habilitará que puedan ver en la pantalla de "Mis Asesores" los grupos a los que están inscritos. Podrán ver los detalles de cada grupo y, si así lo desean, dejar el grupo de asesoría.
+
+Para los asesores, estos podrán crear su cuenta en la aplicación como asesores, crear grupos de asesorías de materias de las que quieran impartir, ver todos los grupos que dan, así como hacer publicaciones en estos y cobrar por sus asesorías.
+
+Finalmente, los administradores tienen acceso a los datos proporcionados por tanto los asesores como los alumnos. De cada persona registrada, los asesores pueden ver si son o no asesores, la carrera que estudia y su correo. Dentro de la pestaña de "Publicaciones" podrá ver cada curso y podrá eliminarlos o no, al eliminarla esto la borrara de la lista de materias. 
 
 ### Operating environment
+La aplicación debe funcionar en todos los sistemas operativos (Mac, Microsoft, Linux) y en todos los buscadores (Chrome, Outlook, Firefox, etc) que se puedan usar en computadoras. 
+Como plan a futuro queremos que la aplicación pueda ser accesada en otros dispotivos como celulares o tablets.
 
 ### Design and Implementation Constraints
+En primer lugar, por cómo está echo, sólo se planea para alumnos con correos institucionales del ITAM por lo tanto restringimos su uso a aquellos que pertenezcan a esta comunidad. Del mismo modo, sólo se puede acceder mediante una computadora, pero, cómo bien se menciona anteriormente, en un futuro se quiere habilitar para dispositivos móviles y tablets. 
 
-### Documentación de usuario/
+### Documentación de usuario
+
+### Suposiciones y dependencias
+Vamos a asumir que todos los usuarios, tanto asesores como alumnos utilizan su correo institucional del ITAM. 
 
 ## External Interface Requirements
 
