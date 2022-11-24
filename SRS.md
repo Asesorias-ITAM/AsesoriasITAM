@@ -38,8 +38,27 @@ En el grupo los asesores podrán publicar su horario de atención y sus notas, l
 Se proyecta implementar una aplciación la cual cubra la necesidad de los alumnos que tienen problemas con el entendimiento o aprendizaje con las materias impartidas el Instituto Tecnológico Autónomo de México (ITAM) a través de una plataforma segura y confiable para aquellos que quieran impartir y tomar cursos. Se busca tener una aplicación que le brinde a los alumnos una forma de mejorar su entendimiento de diversas materias a un bajo costo, al mismo tiempo, que aquellos que tengan el coonocimiento, impartan estos cursos de la misma manera que los actuales laboratorios. La gran diferencia es que no sólo se implementan en la plataforma sino que se darían para cualquier materia que dominen que estén interesadxs en implartir.
 
 ### Product Functions
-Para los que quieran tomar alguna asesoría:
-  * 
+Alumnos que quieran tomar una asesoría:
+ + Crear una cuenta con su correo institucional en caso de ser nuevos con la aplicación. 
+ + Buscar una materia a la que quieran mejorar sus calificaciones.
+ + Darse de alta a un curso.
+ + Darse de bja de un curso.
+ + Ver las publicaciones de los asesores
+
+Alumnos que quieran ser asesores e impartir una asesoría:
+ + Crear una cuenta con su correo institucional, con la opción de asesor, en caso de ser nuevos con la aplicación.
+ + Crear un curso que quieran impartir, poniendo la materia y su descripción. 
+ + Ver todos los grupos que tiene.
+ + Subir publicaciones de sus cursos.
+
+Administrador:
+ + Ver en un directorio todos los asesores que están registrados para impartir cursos.
+ + Ver en un directorio todos los alumnos que están registrados para tomar los cursos.
+ + Ver la descripción de los asesores.
+ + Ver las publicaciones de los cursos.
+ + Elminar publicaciones.
+
+Todos del mismo modo tienen la funcionalidad de cambiar el *modo* de su preferencia, es decir, modo escuro o claro.
 
 ### User Classes and Characteristics
 
