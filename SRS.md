@@ -31,9 +31,6 @@ Se busca que tanto alumnos como asesores sean beneficiados de esta aplicación p
 El propósito de la aplicación se logrará a través de un sistema donde los asesores publicarán sus grupos a los cuales otros alumnos podrán suscribirse y así contactar con el asesor para definir horas en las cuales verse.
 En el grupo los asesores podrán publicar su horario de atención y sus notas, las cuales podrán editar y eliminar.
 
-### Referencias
-?? No son necesarias?
-
 
 ## Descripción General
 
