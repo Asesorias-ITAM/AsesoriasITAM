@@ -142,7 +142,7 @@ Para poder pasar a la siguiente parte del desarrollo, necesitamos la aprobación
 
 ## 19. Glosario
 
-ITAM - Instituto Tecnológico Autónomo de México
-Grey Box Testing - Pruebas tanto al código como a la interfaz, teniendo ambos disponibles para editar
-AWS - Amazon Web Services
-MVP - Entregable con funcionalidad mínima
+* ITAM - Instituto Tecnológico Autónomo de México
+* Grey Box Testing - Pruebas tanto al código como a la interfaz, teniendo ambos disponibles para editar
+* AWS - Amazon Web Services
+* MVP - Entregable con funcionalidad mínima
