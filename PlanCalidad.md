@@ -111,7 +111,7 @@ Los pasos a seguir son:
 
 Para realizar las pruebas se proporcionará una base de datos inicial para experimentar, también se proporcionaran cuentas de prueba para realizar las pruebas.
 
-# Requisitos para realizar las pruebas
+# Especificaciones de la realización de las pruebas
 
 ## 14. Necesidades de equipo y entrenamiento
 * Se requiere haber leído el documento README de este proyecto que se puede encontrar [aquí](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/README.md)
@@ -125,18 +125,24 @@ Fabio Calo dará el entrenamiento para utilizar la aplicación y será quien pro
 Alejandro Uribe se encargará de diseñar las pruebas y organizar tiempos para realizarlas.
 Axel Flores tomará las decisiones sobre cualquier cosa que no esté escrita en este plan de calidad
 
-## 16. 
+## 16. Itinerario
+Al estar usando la metodología Feature Driven, las pruebas se realizarán al día siguiente de haber acabado una Feature para asegurar su correcta implementación.
 
-# BOCETO
-[1] Este es el plan -> Referencias (Documentos posteriores, planes, maquetas, SRS) ->
-[2] Test Items (pantallas a probar, las 5 funcionalidades) -> Riesgos del Software
-[3] Features que se van y no se van a probar -> Approach (Caja negra/gris, manual automatizado)
-[4 - LAS PRUEBAS] Item Pass and Fail criteria
-	Funcionalidad		Escenario	Semáforo
-  	  [REDACTED]		[REDACTED]	Verde / Amarillo / Rojo
-						"Se debe pasar un X% de las pruebas
-No hay servicio con el 100%
+## 17. Riesgos planeados
+* Tenemos un equipo limitado por lo que debemos trabajar lo mejor posible alrededor de los requerimientos
+* Ante un tiempo prolongado en el desarrollo de una feature, se reducirá el tiempo de pruebas para seguir con la feature siguiente.
+* En caso de tener que regresar a rehacer otra feature en etapas avanzadas del desarrollo, se dividirá el equipo en pruebas y desarrollo para reparar todo lo más rápido posible.
+* En caso de un problema que retrase el desarrollo, se dejarán features para una versión posterior y se ajustará el MVP
+* Se debe mantener un buen ritmo de trabajo para asegurar la entrega de la primera versión el 25 de noviembre de 2022 y evitar sobrecarga de trabajo
 
-[5] Suspension Criteria (mínimo aceptable) -> Test Deliverables (entregables)
-[6] Remaining Tests -> Necesidades Extra del ambiente -> 
-    Equipo -> Responsabilides-> Horarios -> Riesgos planeados -> Approvals -> Glosario	
+## 18. Personas que pueden aprobar las pruebas
+Para poder pasar a la siguiente parte del desarrollo, necesitamos la aprobación de alguno de nuestros clientes:
+* Paulina Bustos
+* Alejandro Baillères
+
+## 19. Glosario
+
+ITAM - Instituto Tecnológico Autónomo de México
+Grey Box Testing - Pruebas tanto al código como a la interfaz, teniendo ambos disponibles para editar
+AWS - Amazon Web Services
+MVP - Entregable con funcionalidad mínima
