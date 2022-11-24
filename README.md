@@ -7,7 +7,7 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 * [Información general](#información-general)
   * [Software requirements](#software-requirements)
   * [Casos de Uso](#casos-de-uso)
-    * Caso 1: Escritura y publicación de notas
+    * Caso 1: Escritura y publicación de notas(#Caso-de-uso-1:-Escritura-y-publicación-de-notas)
     * Caso 2: Inscripción a un grupo
     * Caso 3: Creación de una cuenta
   * [Plan de calidad](#plan-de-calidad)
@@ -28,7 +28,7 @@ Los requerimientos de software se pueden consultar [aquí.](https://github.com/A
 
 ### Casos de uso
 
-#### Caso de uso 1: [CASO]
+#### Caso de uso 1: Escritura y publicación de notas
 
 [IMAGEN CASO DE USO]
 
