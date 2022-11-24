@@ -34,11 +34,11 @@ Los requerimientos de software se pueden consultar [aquí.](https://github.com/A
 
 #### Caso de uso 2: Inscripción a un grupo
 
-[IMAGEN CASO DE USO]
+<img width="478" alt="image" src="https://user-images.githubusercontent.com/55751739/203824039-f307cc46-3746-41c1-95ae-139a0db2bd7e.png">
 
 #### Caso de uso 3: Creación de una cuenta
 
-[IMAGEN CASO DE USO]
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/55751739/203824125-959fe136-ba88-492e-aa54-48279de5a710.png">
 
 ### Plan de calidad
 
