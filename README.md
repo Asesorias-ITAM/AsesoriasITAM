@@ -58,8 +58,6 @@ Para desarrollar eficientemente la aplicación, construimos la aplicación con l
 
 ![image](https://user-images.githubusercontent.com/86432413/203692248-38d83f6f-e4eb-42d6-b0e5-ac69702e1d54.png)
 
-
-
 ### Metodología
 
 Optamos por el uso de la metodología Feature Driven Development (FDD).
@@ -88,6 +86,60 @@ Decidimos usar esta metodología porque nos ayudó a definir qué queríamos des
 
 ### Modo usuario
 
+* Acceder a https://asesorias-itam.vercel.app/#/
+
+![image](https://user-images.githubusercontent.com/86432413/203696369-76fe3b76-aeaf-42dc-aa12-ef13d9086648.png)
+
+
+#### Creación de cuenta
+
+1. Si no se tiene una cuenta, dar clic en *Regístrate*
+![image](https://user-images.githubusercontent.com/86432413/203696455-ddefaa08-f9b4-42c8-bc1c-28935c4a23d3.png)
+
+2. Rellena los campos y marca la casilla si deseas ser asesor
+![image](https://user-images.githubusercontent.com/86432413/203696538-54867d0a-84d4-4c93-8ec2-b0e016230e3e.png)
+
+3. Confirma la creación de la cuenta con el código que se envía a tu correo
+
+![image](https://user-images.githubusercontent.com/86432413/203696703-d6d19d71-fc67-45dc-a4a8-a4965fdaf9bf.png)
+
+![image](https://user-images.githubusercontent.com/86432413/203696753-f64f5b5d-f4d7-453e-82ca-43a989f13dd3.png)
+
+4. Inicia sesión con tu nueva cuenta
+
+#### Inicio de sesión
+
+1. Introduce tu correo y contraseña
+
+![image](https://user-images.githubusercontent.com/86432413/203697191-a2c01f82-ff06-4abe-99ff-fcbf8bcb100b.png)
+
+##### * Modo Asesor
+
+* Desde la pantalla principal, *Mis asesores* puedes manejar los grupos a los que estás incrito. Da clic en *ver curso* para ver los detalles del curso, o en *Dejar grupo* para elimiar el grupo de tu pantalla principal.
+
+![image](https://user-images.githubusercontent.com/86432413/203697420-444fcf1d-0758-47ae-97cb-018a0089af64.png)
+
+* En el apartado buscar aparecen todos los grupos disponibles. Puedes buscar por materia o por el nombre del asesor.
+
+![image](https://user-images.githubusercontent.com/86432413/203697811-12bcebcc-e97c-4332-8dd8-283d2e2de3e1.png)
+
+* En el apartado crear grupo, se pueden crear grupos para materias en las que el asesor quiera dar su ayuda.
+
+![image](https://user-images.githubusercontent.com/86432413/203698182-de86e021-0eb0-44e0-93bd-37b10641e3a9.png)
+
+* En el apartado mis grupos,
+
+[FOTO DE MIS GRUPOS]
+
+* En el apartado de ajustes, 
+
+[Foto de ajustes]
+
+##### * Modo No Asesor
+
+El modo no asesor no cuenta con las funcionalidades de crear grupo y mis grupos
+
+![image](https://user-images.githubusercontent.com/86432413/203698293-cfbf68f4-7feb-4c60-a93c-559bfc0686be.png)
 
 
 ### Modo administrador
@@ -135,6 +187,12 @@ Nota: Si la casilla de asesores está activada y se busca a un no asesor, no mos
 
 #### Modo oscuro
 
+Para habilitar el modo oscuro, dar clic en el icóno de la esquina superior derecha
+![image](https://user-images.githubusercontent.com/86432413/203698541-054143b7-9d4d-418c-838f-767b22d75485.png)
+
+![image](https://user-images.githubusercontent.com/86432413/203698578-35a71db2-f584-4926-912d-7c47d1001f8b.png)
+
+Este cambio se mantiene entre apartados, y se puede desactivar dando clic en el mismo lugar.
 
 #### Cerrar sesión
 
@@ -149,6 +207,8 @@ Para salir de la aplicación, dar clic en *cerrar sesión* .
 ### Propuesta de venta
 
 Esta aplicación tiene el fin de ayudar a unir a la comunidad ITAM a la vez que se obtiene una mejora en el desempeño escolar de los alumnos, y hacer la aplicación de pago para los alumnos supondría una barrera de entrada. Es por lo anterior que proponemos vender la aplicación al ITAM para que sea implementada y distribuida libremente a los alumnos, además de darle mantenimiento semestral a la aplicación pues habrá que reiniciar la base de datos cada semestre.
+
+Además, los asesores podrán generar un ingreso, si lo desean, o cubrir horas de servicio social como es el caso de los laboratoristas.
 
 ### Propuesta de costos
 
