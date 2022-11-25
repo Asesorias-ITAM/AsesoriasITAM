@@ -50,6 +50,7 @@ Alumnos que quieran ser asesores e impartir una asesoría:
  + Crear un curso que quieran impartir, poniendo la materia y su descripción. 
  + Ver todos los grupos que tiene.
  + Subir publicaciones de sus cursos.
+ + Poner el precio de sus asesorías.
 
 Administrador:
  + Ver en un directorio todos los asesores que están registrados para impartir cursos.
@@ -89,12 +90,15 @@ Dependemos que todos los usuarios, tanto asesores como alumnos utilizan su corre
 ### UI
 
 ### Hardware Interfaces
+Es necesario utilizar una computadora ya que esta versión de la aplicación no está pensada para dispositivos móviles o tablets. 
 
 ### Software Interfaces
+Para poder utilizar la aplicación, se necesita de un navegador como Chrome, Outlook, Firefox, etc.
 
 ### Communications Interfaces
 
 ## System Features
+Uno de las funcionalidad es a resaltar es el cambio de modo claro a modo oscuro. 
 
 ## Other Requirements 
-?
+ 
