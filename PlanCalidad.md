@@ -44,6 +44,7 @@ Se va a probar la correcta implementación del software en la página de Asesor�
 * No implementamos medidas de seguridad dentro de la aplicación, solo en la creación de cuentas.
 * Se pueden iniciar múltiples sesiones distintas en un mismo navegador
 * Dependemos de AWS
+* regargar
 
 # Sobre las pruebas
 
