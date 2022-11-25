@@ -29,13 +29,11 @@ Se busca que tanto alumnos como asesores sean beneficiados de esta aplicación p
 
 ### Alcance
 El propósito de la aplicación se logrará a través de un sistema donde los asesores publicarán sus grupos a los cuales otros alumnos podrán suscribirse y así contactar con el asesor para definir horas en las cuales verse.
-En el grupo los asesores podrán publicar su horario de atención y sus notas, las cuales podrán editar y eliminar.
-
 
 ## Descripción General
 
 ### Product Perspective
-Se proyecta implementar una aplciación la cual cubra la necesidad de los alumnos que tienen problemas con el entendimiento o aprendizaje con las materias impartidas el Instituto Tecnológico Autónomo de México (ITAM) a través de una plataforma segura y confiable para aquellos que quieran impartir y tomar cursos. Se busca tener una aplicación que le brinde a los alumnos una forma de mejorar su entendimiento de diversas materias a un bajo costo, al mismo tiempo, que aquellos que tengan el coonocimiento, impartan estos cursos de la misma manera que los actuales laboratorios. La gran diferencia es que no sólo se implementan en la plataforma sino que se darían para cualquier materia que dominen que estén interesadxs en implartir.
+Se proyecta implementar una aplicación la cual cubra la necesidad de los alumnos que tienen problemas con el entendimiento o aprendizaje con las materias impartidas el Instituto Tecnológico Autónomo de México (ITAM) a través de una plataforma segura y confiable para aquellos que quieran impartir y tomar cursos. Se busca tener una aplicación que le brinde a los alumnos una forma de mejorar su entendimiento de diversas materias a un bajo costo, al mismo tiempo, que aquellos que tengan el coonocimiento, impartan estos cursos de la misma manera que los actuales laboratorios. La gran diferencia es que no sólo se implementan en la plataforma sino que se darían para cualquier materia que dominen que estén interesadxs en implartir.
 
 ### Product Functions
 Alumnos que quieran tomar una asesoría:
@@ -49,15 +47,14 @@ Alumnos que quieran ser asesores e impartir una asesoría:
  + Crear una cuenta con su correo institucional, con la opción de asesor, en caso de ser nuevos con la aplicación.
  + Crear un curso que quieran impartir, poniendo la materia y su descripción. 
  + Ver todos los grupos que tiene.
- + Subir publicaciones de sus cursos.
  + Poner el precio de sus asesorías.
 
 Administrador:
  + Ver en un directorio todos los asesores que están registrados para impartir cursos.
  + Ver en un directorio todos los alumnos que están registrados para tomar los cursos.
  + Ver la descripción de los asesores.
- + Ver las publicaciones de los cursos.
- + Elminar publicaciones.
+ + Ver los grupos publicados por los asesores.
+ + Elminar grupos.
 
 Todos del mismo modo tienen la funcionalidad de cambiar el *modo* de su preferencia, es decir, modo escuro o claro.
 
@@ -67,11 +64,11 @@ Las clases principales las podemos dividir en 3:
  + Asesores
  + Administradores
 
-Para los alumnos que quieran tomar una asesoría. Podrán crear una cuenta en la aplicación *Asesorías ITAM*. Estos alumnos podrán ver qué clases les interesan tomar y registrarse en ellas. Esto habilitará que puedan ver en la pantalla de "Mis Asesores" los grupos a los que están inscritos. Podrán ver los detalles de cada grupo y, si así lo desean, dejar el grupo de asesoría.
+Para los alumnos que quieran tomar una asesoría. Podrán crear una cuenta en la aplicación *Asesorías ITAM*. Estos alumnos podrán ver qué clases les interesan tomar y registrarse en ellas. Esto habilitará que puedan ver en la pantalla de *Mis Asesores* los grupos a los que están inscritos. Podrán ver los detalles de cada grupo y, si así lo desean, dejar el grupo de asesoría.
 
 Para los asesores, estos podrán crear su cuenta en la aplicación como asesores, crear grupos de asesorías de materias de las que quieran impartir, ver todos los grupos que dan, así como hacer publicaciones en estos y cobrar por sus asesorías.
 
-Finalmente, los administradores tienen acceso a los datos proporcionados por tanto los asesores como los alumnos. De cada persona registrada, los asesores pueden ver si son o no asesores, la carrera que estudia y su correo. Dentro de la pestaña de "Publicaciones" podrá ver cada curso y podrá eliminarlos o no, al eliminarla esto la borrara de la lista de materias. 
+Finalmente, los administradores tienen acceso a los datos proporcionados por tanto los asesores como los alumnos. De cada persona registrada, los asesores pueden ver si son o no asesores, la carrera que estudia y su correo. Dentro de la pestaña de *Publicaciones* podrá ver cada curso y podrá eliminarlos o no, al eliminarla esto la borrara de la lista de materias. 
 
 ### Operating environment
 La aplicación debe funcionar en todos los sistemas operativos (Mac, Microsoft, Linux) y en todos los buscadores (Chrome, Outlook, Firefox, etc) que se puedan usar en computadoras. 
@@ -81,6 +78,8 @@ Como plan a futuro queremos que la aplicación pueda ser accesada en otros dispo
 En primer lugar, por cómo está echo, sólo se planea para alumnos con correos institucionales del ITAM por lo tanto restringimos su uso a aquellos que pertenezcan a esta comunidad. Del mismo modo, sólo se puede acceder mediante una computadora, pero, cómo bien se menciona anteriormente, en un futuro se quiere habilitar para dispositivos móviles y tablets. 
 
 ### Documentación de usuario
+
+Ver el apartado Uso del ReadMe [aquí](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/README.md)
 
 ### Suposiciones y dependencias
 Dependemos que todos los usuarios, tanto asesores como alumnos utilizan su correo institucional del ITAM. 
@@ -99,7 +98,31 @@ Para poder utilizar la aplicación, se necesita de un navegador como Chrome, Out
 Se necesita el permiso para poder mandar correos a los correos de las personas que se registren a la aplicación ya que para confirmar la creación de su cuenta, se envía un correo con el código de verificación de correo.
 
 ## System Features
-Uno de las funcionalidad es a resaltar es el cambio de modo claro a modo oscuro. 
+
+### Creación de grupos
+
+El asesor puede crear grupos para darse a conocer al resto de usuarios. Prioridad Alta
+
+![image](https://user-images.githubusercontent.com/86432413/203886672-54fbd3be-85f3-4b8d-8bbf-7855fbc7232d.png)
+
+Para realizar esta feature, se requiere 
+
+### Suscripción a grupos
+
+Los usuarios pueden suscribirse a grupos de asesoría.
+
+![image](https://user-images.githubusercontent.com/86432413/203886876-7e8f0d64-118a-4d41-8a5b-3aa5fea86aa2.png)
+
+### Creación de cuenta
+
+Los usuarios podrán crear cuentas para validar su identidad, y guardar datos sobre las asesorías que dan o a las que están inscritos
+
+![image](https://user-images.githubusercontent.com/86432413/203887156-f3e57908-1dc5-409c-aac8-97b7c4ae86ae.png)
+
+
+
 
 ## Other Requirements 
  
+ 
+Uno de las funcionalidad es a resaltar es el cambio de modo claro a modo oscuro. 
