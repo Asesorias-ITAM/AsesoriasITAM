@@ -84,6 +84,8 @@ Ver el apartado Uso del ReadMe [aquí](https://github.com/Asesorias-ITAM/Asesori
 ### Suposiciones y dependencias
 Dependemos que todos los usuarios, tanto asesores como alumnos utilizan su correo institucional del ITAM. 
 
+Igualmente, como utilizamos Hygraph, podemos tener hasta 1000 entradas en todo nuestro contenido, con un tráfico de 100GB y 1 millón de llamadas API.
+
 ## External Interface Requirements
 
 ### Hardware Interfaces
