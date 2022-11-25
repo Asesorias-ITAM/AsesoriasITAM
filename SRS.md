@@ -86,8 +86,6 @@ Dependemos que todos los usuarios, tanto asesores como alumnos utilizan su corre
 
 ## External Interface Requirements
 
-### UI
-
 ### Hardware Interfaces
 Es necesario utilizar una computadora ya que esta versión de la aplicación no está pensada para dispositivos móviles o tablets. 
 
