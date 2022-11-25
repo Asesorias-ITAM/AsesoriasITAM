@@ -99,7 +99,7 @@ Se necesita el permiso para poder mandar correos a los correos de las personas q
 
 ### Creación de grupos
 
-El asesor puede crear grupos para darse a conocer al resto de usuarios. Prioridad Alta
+El asesor puede crear grupos para darse a conocer al resto de usuarios. Prioridad Alta.
 
 <img width="498" alt="image" src="https://user-images.githubusercontent.com/55751739/203900661-3c057c78-3067-4cda-a56f-325239e30382.png">
 
@@ -107,7 +107,7 @@ Para realizar esta feature, se crea un objeto grupo localmente y al publicarse s
 
 ### Suscripción a grupos
 
-Los usuarios pueden suscribirse a grupos de asesoría.
+Los usuarios pueden suscribirse a grupos de asesoría. Prioridad Media.
 
 ![image](https://user-images.githubusercontent.com/86432413/203886876-7e8f0d64-118a-4d41-8a5b-3aa5fea86aa2.png)
 
@@ -115,7 +115,7 @@ Cada usuario debe tener una lista con los usuarios asesores a los que está susc
 
 ### Creación de cuenta
 
-Los usuarios podrán crear cuentas para validar su identidad, y guardar datos sobre las asesorías que dan o a las que están inscritos
+Los usuarios podrán crear cuentas para validar su identidad, y guardar datos sobre las asesorías que dan o a las que están inscritos. Prioridad Alta.
 
 ![image](https://user-images.githubusercontent.com/86432413/203887156-f3e57908-1dc5-409c-aac8-97b7c4ae86ae.png)
 
