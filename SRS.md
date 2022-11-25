@@ -105,7 +105,7 @@ El asesor puede crear grupos para darse a conocer al resto de usuarios. Priorida
 
 ![image](https://user-images.githubusercontent.com/86432413/203886672-54fbd3be-85f3-4b8d-8bbf-7855fbc7232d.png)
 
-Para realizar esta feature, se requiere 
+Para realizar esta feature, se crea un objeto grupo localmente y al publicarse se envía a la base de datos. Cada usuario tiene una lista de publicaciones, al publicarse, se agrega a la lista. En Hygraph, se crea el objeto publicación y se agrega la conexión con su usuario creador
 
 ### Suscripción a grupos
 
@@ -113,16 +113,19 @@ Los usuarios pueden suscribirse a grupos de asesoría.
 
 ![image](https://user-images.githubusercontent.com/86432413/203886876-7e8f0d64-118a-4d41-8a5b-3aa5fea86aa2.png)
 
+Cada usuario debe tener una lista con los usuarios asesores a los que está suscrito. En Hygraph, se hace una conexión del objeto usuario con el objeto publicación.
+
 ### Creación de cuenta
 
 Los usuarios podrán crear cuentas para validar su identidad, y guardar datos sobre las asesorías que dan o a las que están inscritos
 
 ![image](https://user-images.githubusercontent.com/86432413/203887156-f3e57908-1dc5-409c-aac8-97b7c4ae86ae.png)
 
+Se crea un perfil de autentificación con AWS Cognito, y se agrega la información del alumno a la base de datos *directorio* que se encuentra en Hygraph.
 
 
 
 ## Other Requirements 
  
- 
-Uno de las funcionalidad es a resaltar es el cambio de modo claro a modo oscuro. 
+* Modo oscuro
+Para esta funcionalidad, el botón hace que cada elemento visible pase de usar su configuración de modo claro a su configuración de modo oscuro.
