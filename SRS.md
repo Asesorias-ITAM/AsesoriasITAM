@@ -96,6 +96,7 @@ Es necesario utilizar una computadora ya que esta versión de la aplicación no 
 Para poder utilizar la aplicación, se necesita de un navegador como Chrome, Outlook, Firefox, etc.
 
 ### Communications Interfaces
+Se necesita el permiso para poder mandar correos a los correos de las personas que se registren a la aplicación ya que para confirmar la creación de su cuenta, se envía un correo con el código de verificación de correo.
 
 ## System Features
 Uno de las funcionalidad es a resaltar es el cambio de modo claro a modo oscuro. 
