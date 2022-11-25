@@ -101,7 +101,7 @@ Se necesita el permiso para poder mandar correos a los correos de las personas q
 
 El asesor puede crear grupos para darse a conocer al resto de usuarios. Prioridad Alta
 
-![image](https://user-images.githubusercontent.com/86432413/203886672-54fbd3be-85f3-4b8d-8bbf-7855fbc7232d.png)
+<img width="498" alt="image" src="https://user-images.githubusercontent.com/55751739/203900661-3c057c78-3067-4cda-a56f-325239e30382.png">
 
 Para realizar esta feature, se crea un objeto grupo localmente y al publicarse se envía a la base de datos. Cada usuario tiene una lista de publicaciones, al publicarse, se agrega a la lista. En Hygraph, se crea el objeto publicación y se agrega la conexión con su usuario creador
 
