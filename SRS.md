@@ -128,4 +128,5 @@ Se crea un perfil de autentificación con AWS Cognito, y se agrega la informaci�
 ## Other Requirements 
  
 * Modo oscuro
+
 Para esta funcionalidad, el botón hace que cada elemento visible pase de usar su configuración de modo claro a su configuración de modo oscuro.
