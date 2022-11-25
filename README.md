@@ -9,7 +9,7 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
   * [Plan de calidad](#plan-de-calidad)
   * [Arquitectura](#arquitectura)
   * [Metodología](#metodología)
-* [Tecnologías utilizadas](tecnologías-utilizadas)
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
 * [Uso](#uso)
 * [Propuesta económica](#propuesta-económica)
   * [Propuesta de venta](#propuesta-de-venta)
