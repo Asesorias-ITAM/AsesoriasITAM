@@ -117,10 +117,11 @@ Decidimos usar esta metodología porque nos ayudó a definir qué queríamos des
 
 ![image](https://user-images.githubusercontent.com/86432413/203887953-208dd67b-95a6-4fb5-962f-ac5c4ded3b9c.png)
 
- Con el botón *editar* puedes realizar cambios. Da clic en *cancelar* para cancelar los cambios, y en *guardar* para guardar los cambios
-
+ Con el botón *editar* puedes realizar cambios. Da clic en *cancelar* para cancelar los cambios, y en *guardar* para guardar los cambios.
+ 
 ![image](https://user-images.githubusercontent.com/86432413/203888152-9972f5be-0d84-480b-9f90-58cd618d6d72.png)
 
+Nota: Al desactivar la opción de ser asesor, se pierden los privilegios del modo asesor y todos los grupos que el usuario tenga activos pasan a estar ocultos hasta que el usuario vuelva a activar la opción de ser asesor
 
 ##### Modo No Asesor
 
