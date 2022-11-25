@@ -9,6 +9,7 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
   * [Plan de calidad](#plan-de-calidad)
   * [Arquitectura](#arquitectura)
   * [Metodología](#metodología)
+* [Tecnologías utilizadas](tecnologías-utilizadas)
 * [Uso](#uso)
 * [Propuesta económica](#propuesta-económica)
   * [Propuesta de venta](#propuesta-de-venta)
@@ -40,6 +41,13 @@ Para desarrollar eficientemente la aplicación, construimos la aplicación con l
 
 ![image](https://user-images.githubusercontent.com/86432413/203692248-38d83f6f-e4eb-42d6-b0e5-ac69702e1d54.png)
 
+Las funciones de cada microservicio principal son:
+* Cognito - Autentificación y creación de cuentas
+* Vercel - Para hostear la página
+* Hygraph - Sistema de manejo de contenido
+
+A su vez cada microservicio utiliza distintas herramientas para cumplir con sus funciones.
+
 ### Metodología
 
 Optamos por el uso de la metodología Feature Driven Development (FDD).
@@ -63,6 +71,24 @@ Debilidades
 * Depende mucho de los lead developers o lead programmers
 
 Decidimos usar esta metodología porque nos ayudó a definir qué queríamos desarrollar, trabajar en torno a las features para así obtener las funcionalidades deseadas y cumplir con los requerimientos, y hacerlo de manera rápida por la poca cantidad de pasos. Las debilidades de esta metodología no resultaron ser tan importantes como para opacar las fortalezas que nos aportó durante el desarrollo de la aplicación
+
+## Tecnologías utilizadas
+
+### Lenguajes de programación
+
+Todo se programó en JavaScript
+
+### Frontend
+
+* Vue como Framework
+* Tailwind para los estilos
+* AWS Cognito para autentificación 
+
+### Backend
+
+* Hygraph como backend as a service
+* Graphql para las llamadas a API
+
 
 ## Uso
 
