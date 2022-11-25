@@ -109,13 +109,18 @@ Decidimos usar esta metodología porque nos ayudó a definir qué queríamos des
 
 ![image](https://user-images.githubusercontent.com/86432413/203698182-de86e021-0eb0-44e0-93bd-37b10641e3a9.png)
 
-* En el apartado mis grupos,
+* En el apartado mis grupos, aparecen todos los grupos que estás impartiendo como asesor.
 
-[FOTO DE MIS GRUPOS]
+![image](https://user-images.githubusercontent.com/86432413/203887877-9492ce0e-e4d2-4409-a2ce-d9904c910c4c.png)
 
-* En el apartado de ajustes, 
+* En el apartado de ajustes, aparecen tus datos de usuario.
 
-[Foto de ajustes]
+![image](https://user-images.githubusercontent.com/86432413/203887953-208dd67b-95a6-4fb5-962f-ac5c4ded3b9c.png)
+
+ Con el botón *editar* puedes realizar cambios. Da clic en *cancelar* para cancelar los cambios, y en *guardar* para guardar los cambios
+
+![image](https://user-images.githubusercontent.com/86432413/203888152-9972f5be-0d84-480b-9f90-58cd618d6d72.png)
+
 
 ##### Modo No Asesor
 
