@@ -6,10 +6,6 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 
 * [Información general](#información-general)
   * [Software requirements](#software-requirements)
-  * [Casos de Uso](#casos-de-uso)
-    * [Caso 1: Escritura y publicación de notas]
-    * [Caso 2: Inscripción a un grupo]
-    * [Caso 3: Creación de una cuenta]
   * [Plan de calidad](#plan-de-calidad)
   * [Arquitectura](#arquitectura)
   * [Metodología](#metodología)
@@ -25,20 +21,6 @@ Herramienta que permite unir alumnos que necesitan ayuda con sus estudios con al
 ### Software requirements
 
 Los requerimientos de software se pueden consultar [aquí.](https://github.com/Asesorias-ITAM/AsesoriasITAM/blob/main/SRS.md)
-
-### Casos de uso
-
-#### Caso de uso 1: Escritura y publicación de notas
-
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/55751739/203823757-916f6bba-49c1-4bda-9fc6-02b9895fcefe.png">
-
-#### Caso de uso 2: Inscripción a un grupo
-
-<img width="478" alt="image" src="https://user-images.githubusercontent.com/55751739/203824039-f307cc46-3746-41c1-95ae-139a0db2bd7e.png">
-
-#### Caso de uso 3: Creación de una cuenta
-
-<img width="423" alt="image" src="https://user-images.githubusercontent.com/55751739/203824125-959fe136-ba88-492e-aa54-48279de5a710.png">
 
 ### Plan de calidad
 
