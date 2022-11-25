@@ -84,8 +84,6 @@ Ver el apartado Uso del ReadMe [aquí](https://github.com/Asesorias-ITAM/Asesori
 ### Suposiciones y dependencias
 Dependemos que todos los usuarios, tanto asesores como alumnos utilizan su correo institucional del ITAM. 
 
-Igualmente, como utilizamos Hygraph, podemos tener hasta 1000 entradas en todo nuestro contenido, con un tráfico de 100GB y 1 millón de llamadas API.
-
 ## External Interface Requirements
 
 ### Hardware Interfaces
@@ -103,7 +101,7 @@ Se necesita el permiso para poder mandar correos a los correos de las personas q
 
 El asesor puede crear grupos para darse a conocer al resto de usuarios. Prioridad Alta.
 
-<img width="498" alt="image" src="https://user-images.githubusercontent.com/55751739/203900661-3c057c78-3067-4cda-a56f-325239e30382.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/55751739/203900661-3c057c78-3067-4cda-a56f-325239e30382.png">
 
 Para realizar esta feature, se crea un objeto grupo localmente y al publicarse se envía a la base de datos. Cada usuario tiene una lista de publicaciones, al publicarse, se agrega a la lista. En Hygraph, se crea el objeto publicación y se agrega la conexión con su usuario creador
 
@@ -111,7 +109,8 @@ Para realizar esta feature, se crea un objeto grupo localmente y al publicarse s
 
 Los usuarios pueden suscribirse a grupos de asesoría. Prioridad Media.
 
-![image](https://user-images.githubusercontent.com/86432413/203886876-7e8f0d64-118a-4d41-8a5b-3aa5fea86aa2.png)
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/86432413/203886876-7e8f0d64-118a-4d41-8a5b-3aa5fea86aa2.png">
+
 
 Cada usuario debe tener una lista con los usuarios asesores a los que está suscrito. En Hygraph, se hace una conexión del objeto usuario con el objeto publicación.
 
@@ -119,10 +118,10 @@ Cada usuario debe tener una lista con los usuarios asesores a los que está susc
 
 Los usuarios podrán crear cuentas para validar su identidad, y guardar datos sobre las asesorías que dan o a las que están inscritos. Prioridad Alta.
 
-![image](https://user-images.githubusercontent.com/86432413/203887156-f3e57908-1dc5-409c-aac8-97b7c4ae86ae.png)
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/86432413/203887156-f3e57908-1dc5-409c-aac8-97b7c4ae86ae.png">
+
 
 Se crea un perfil de autentificación con AWS Cognito, y se agrega la información del alumno a la base de datos *directorio* que se encuentra en Hygraph.
-
 
 
 ## Other Requirements 
